@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="cscfg" type="CoffeeScript" />
+      <mapping ext="cshtml" type="HTML" />
+      <mapping ext="template" type="Jade" />
+      <mapping ext="blade" type="Jade" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.3.2 (vagrant://U:/projects/parts-exchange/vagrant/home/vagrant/venv/backend/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.3.2" />
+      <homePath value="vagrant://U:/projects/parts-exchange/vagrant/home/vagrant/venv/backend/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.PyCharm30/system/remote_sources/-216047327" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm30/system/python_stubs/-216047327" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
