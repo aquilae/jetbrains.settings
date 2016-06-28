@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="cscfg" type="CoffeeScript" />
@@ -7,6 +7,7 @@
       <mapping ext="template" type="Jade" />
       <mapping ext="blade" type="Jade" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
