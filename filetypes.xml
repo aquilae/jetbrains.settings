@@ -7,7 +7,6 @@
       <mapping ext="template" type="Jade" />
       <mapping ext="blade" type="Jade" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
