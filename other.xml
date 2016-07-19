@@ -70,6 +70,7 @@
     </local-interpreter>
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="6.2.2" last-modified="1466163998000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
