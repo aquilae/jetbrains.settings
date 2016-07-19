@@ -6,6 +6,7 @@
       <mapping ext="cshtml" type="HTML" />
       <mapping ext="template" type="Jade" />
       <mapping ext="blade" type="Jade" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
