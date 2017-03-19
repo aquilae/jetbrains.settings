@@ -18,6 +18,7 @@
       <mapping ext="blade" type="Jade" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
+      <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="asdas" type="PLAIN_TEXT" />
