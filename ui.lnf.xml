@@ -4,7 +4,6 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
