@@ -6,5 +6,11 @@
         <option name="certificatesPath" value="C:\Users\aq\.docker\machine\certs" />
       </configuration>
     </remote-server>
+    <remote-server name="local" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1:2375" />
+        <option name="certificatesPath" value="C:\Users\aq\.docker\machine\machines\default" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
