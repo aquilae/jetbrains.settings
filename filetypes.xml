@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="cscfg" type="CoffeeScript" />
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
@@ -11,11 +10,10 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="cshtml" type="HTML" />
-      <mapping ext="template" type="Jade" />
-      <mapping ext="blade" type="Jade" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="asdsa" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
@@ -24,6 +22,8 @@
       <mapping pattern="asdas" type="PLAIN_TEXT" />
       <mapping pattern="do" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="Jade" />
+      <mapping ext="template" type="Jade" />
     </extensionMap>
   </component>
 </application>
